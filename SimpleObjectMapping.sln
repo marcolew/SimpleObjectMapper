@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleObjectMapping", "SimpleObjectMapping\SimpleObjectMapping.csproj", "{FD594B02-F349-4F2D-87C0-CD83272A8F0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleObjectMapping.Demo", "SimpleObjectMapping.Demo\SimpleObjectMapping.Demo.csproj", "{BB724BAC-856D-41C2-BAB0-751A22264D71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD594B02-F349-4F2D-87C0-CD83272A8F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD594B02-F349-4F2D-87C0-CD83272A8F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD594B02-F349-4F2D-87C0-CD83272A8F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD594B02-F349-4F2D-87C0-CD83272A8F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB724BAC-856D-41C2-BAB0-751A22264D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB724BAC-856D-41C2-BAB0-751A22264D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB724BAC-856D-41C2-BAB0-751A22264D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB724BAC-856D-41C2-BAB0-751A22264D71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
